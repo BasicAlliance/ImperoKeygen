@@ -40,7 +40,7 @@ namespace ImperoKeygen
 			{
 				ProductLicenceModel productModel = new ProductLicenceModel ();
 				productModel.ExpirationDate = DateTime.Parse ("9999-12-25T23:59:59");
-				productModel.Name = "LizardHQ";
+				productModel.Name = "LizardHQ_PREMIUM_License";
 				productModel.InternalKey = "EducationPro";
 				productModel.LicenceType = "Full";
 				productModel.LicenceSubType = "EducationPro";
